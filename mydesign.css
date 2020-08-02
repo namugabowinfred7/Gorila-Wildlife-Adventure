@@ -1,0 +1,118 @@
+.bdb{
+    padding: 5px;
+    padding-bottom: 10px;
+}
+.nav-contact{
+    display: flex;
+    background-color: darkslategray;
+    color: floralwhite;
+    padding: 5px;
+}
+.headerOL{
+    display: flex;
+    text-align: right;
+    list-style: none;
+    justify-content: space-between;
+    padding-left:500px;
+   
+}
+.nav-contact h6{
+padding-left: 10px;
+}
+.Iicon-hd{
+    padding-top: 3px;
+    width: 30px;
+    height:20px;
+    padding-left: 15px;
+    }
+  .headerOL .Iicon{
+  width: 30px;
+  height: 0 auto;
+  padding-left: 15px;
+  }
+.carousel-item{
+    height: 760px;
+   align-content: center;
+   background-position: center;
+   background-size: cover;
+   padding-bottom: 20px;
+}
+.carousel-inner{
+    width: 500px;
+    height: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(16, 197, 31, 0.527);
+}
+.slide-text1{
+    color: rgb(92, 179, 6);
+transition-delay: 1s;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.slide-text2{
+    color: rgb(245, 65, 65);
+transition-delay: 1s;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.login-form{
+    text-align: center;
+    color: darkorange;
+    border:4px, ;
+    border-width: 5px;
+    border-color: rgb(7, 145, 41);
+    height: 0 auto;
+    
+}
+.divy{
+    background-color: rgba(240, 112, 165, 0.24);
+    border:4px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(241, 142, 12);
+    width: 400px;
+    height: 0 auto;
+    padding:30px;
+}
+
+.login-form .input1{
+    border-radius: 15px;
+    width: 250px;
+    background-blend-mode: screen;
+    text-align: center;
+    border-style: double;
+}
+.login-form .input2{
+    border-radius: 15px;
+    width: 250px;
+    background-blend-mode: screen;
+    text-align: center;
+    border-style: double;
+}
+.login-form .butn1{
+    border-radius: 12px;
+    width: 100px;
+}
+.login-form .butn2{
+    border-radius: 12px;
+    width: 100px;
+}
+.payas{
+    background-color: rgba(231, 219, 164, 0.377);
+    border:4px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: rgb(228, 213, 13);
+    width: 200px;
+    height: 0 auto;
+    padding:30px;
+}
+.fami{
+    background-color: rgba(240, 123, 123, 0.322);
+    border:4px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: rgb(228, 13, 13);
+    width: 750px;
+    height: 0 auto;
+    padding:30px;
+}

@@ -1,0 +1,52 @@
+
+.carousel-inner h5 a{
+color: mediumblue;
+background-color: rgba(253, 245, 230, 0.63);
+}
+.wrapper-gals{
+    margin: 0 20vw;
+}
+.detaie-about{
+    background-color: honeydew;
+    padding: 30px;
+    width: 700px;
+    height:  0 auto;
+    border-style: solid;
+    border: size 0.2px;
+  }
+  .img-slide-about{
+      border-style: dotted;
+    border-radius: 12px;
+    border-color: rgb(177, 235, 225);
+    width: 200px;
+    height: 0 auto;
+}
+.random-pay{
+width: 200px;
+height: 0 auto;
+padding: 15px;
+border-color: palegoldenrod;
+border-style: solid;
+border-radius: 12px;
+align-self: right;
+color: rgb(245, 245, 248);
+}
+.random-pay a{
+color: cyan;
+}
+.bold{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(26, 8, 185);
+}
+.myrule{
+ 
+    color: rgb(242, 247, 248);
+}
+h3 i{
+    color: red;
+}
+.ban{
+    height: 50px;
+    width: 400px;
+}
